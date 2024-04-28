@@ -1,6 +1,6 @@
 What's this for?
 如果你是玄学感兴趣者，可以试试用六爻来算算卦。神奇又有趣。娱乐为主啦～
-六爻：https://baike.baidu.com/item/%E5%85%AD%E7%88%BB/14902906
+六爻：https://baike.sogou.com/v508218.htm
 
 How to use it?
 1. Intall openAI
